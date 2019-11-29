@@ -1,4 +1,6 @@
-A) Code Nodes_condition_1_for_all.m takes input as file which are:
+These codes are used for finding the duplicate nodes of a network.
+
+A) Code 'Nodes_condition_1_for_all.m' takes input as file which are:
 
     (i) Network (size N) in the form of its adjacency matrix (NxN) [Matrix.dat]
     (ii) Degree vector of N nodes [Degree.dat]
@@ -9,7 +11,7 @@ A) Code Nodes_condition_1_for_all.m takes input as file which are:
     (ii) Two column file consisting of pairs of complete duplicate nodes [Nodes_condition_1]
 
 
-B) Code Nodes_condition_2_for_all.m takes input as :
+B) Code 'Nodes_condition_2_for_all.m' takes input as :
 
     (i)    Adjacency matrix of the network (NxN) [Matrix.dat]
     (ii)   Output [Nodes_condition_1] from the code (A)
