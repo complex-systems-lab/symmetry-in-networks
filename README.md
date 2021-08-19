@@ -30,8 +30,7 @@ References:
 2) Alok Yadav and Sarika Jalan*. Origin and implications of zero degeneracy in networks spectra. Chaos 25, 043110 (2015) 
    DOI: 10.1063/1.4917286
 
-3) Pramod Shinde, Loic Marrec, Aparna Rai, Alok Yadav, Rajesh Kumar, Alexey Zaikin, and Sarika Jalan*. Symmetry in disease networks           
-   Identified:Proposal for multi-cancer biomarkers (Under Review) (2019)
+3) Pramod Shinde, Loïc Marrec, Aparna Rai, Alok Yadav, Rajesh Kumar, Mikhail Ivanchenko, Alexey Zaikin, and Sarika Jalan. "Symmetry in cancer networks identified: Proposal for multicancer biomarkers." Network Science 7, no. 4 (2019): 541-555.
 
 FEEL FREE TO CONTACT US IN CASE OF ANY DOUBT.
 sarika@iiti.ac.in
